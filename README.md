@@ -51,3 +51,11 @@
 |               8 | Repetetive                         | H3k36me3 H3k9me1 H3k4me1 H3k27ac H3k9me3                                 | Низкий      | Высокий        | Низкий процент от генома, низкий TSS                           |
 |               9 | Repressed                          | –                                                                        | Низкий      | Высокий        | Очень высокий процент от генома                                |
 |              10 | Repressed                          | H3k9me1 H3k27me3                                                         | Низкий      | Высокий        | Очень высокий процент от генома                                |
+
+## Бонус
+
+Аннотированный вывод ChromHMM можно посмотреть в [K562_10_dense_annotated.bed](K562_10_dense_annotated.bed).
+
+Также я приведу пример genome browser с уже аннотированным файлом:
+
+![genome_annotated](resources/genome_annotated.jpg)
