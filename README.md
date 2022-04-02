@@ -1,5 +1,7 @@
 # hse_hw3_chromhmm
 
+Весь код можно посмотреть в колабе: [colab](https://colab.research.google.com/drive/1y0aLkZlzkIbgDFhrydQqk0DvtGwmtJJb?usp=sharing).
+
 ## Метки
 
 | Название метки | Файл                   |
@@ -15,7 +17,7 @@
 | H3k9me1        | H3k9me1StdAlnRep1.bam  |
 | H3k9me3        | H3k9me3StdAlnRep1.bam  |
 
-# Выдача ChromHMM
+## Выдача ChromHMM
 
 ![emissions](chromhmmOutput/emissions_10.png)
 
@@ -27,7 +29,15 @@
 
 ![TSS](chromhmmOutput/K562_10_RefSeqTSS_neighborhood.png)
 
-# Табличка с результатами
+## Примеры из genome browser
+
+![genome_1](resources/genome_1.jpg)
+
+![genome_2](resources/genome_2.jpg)
+
+![genome_3](resources/genome_3.jpg)
+
+## Табличка с результатами
 
 | Номер состояния | Присвоенная роль                   | Ассоциированные метки                                                    | Уровень CpG | Уровень Lamina | Другое                                                         |
 |-----------------|------------------------------------|--------------------------------------------------------------------------|-------------|----------------|----------------------------------------------------------------|
