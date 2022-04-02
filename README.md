@@ -1,5 +1,7 @@
 # hse_hw3_chromhmm
 
+Весь код можно посмотреть в колабе: [colab](https://colab.research.google.com/drive/1y0aLkZlzkIbgDFhrydQqk0DvtGwmtJJb?usp=sharing).
+
 ## Метки
 
 | Название метки | Файл                   |
